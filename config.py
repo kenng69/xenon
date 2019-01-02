@@ -20,8 +20,8 @@ extensions = [
     "cogs.stats"
 ]
 
-support_guild = 410488579140354049
-update_channel = 526897380595859456
+support_guild = 
+update_channel = 
 
 self_host = True
 # The options below are not required if "self_host" is enabled
